@@ -4,9 +4,10 @@
 
 - Realizar a extração de dados de uma lista de paginas que necessitamos extrair os dados das filiais para uma tabela.
 - As tabelas devem conter as seguintes colunas.
+
 | Nome | Endereço | Cidade | Estado | Pagina |
 | --------------- | --------------- | --------------- | --------------- | --------------- |
-| Item1.1 | Item2.1 | Item3.1 | Item4.1 | | Item5.1 |
+| Item1.1 | Item2.1 | Item3.1 | Item4.1 | Item5.1 |
 
 - Gerar um arquivo Excel/csv para cada site
 
@@ -20,4 +21,3 @@
 8. [Remaza](https://www.remaza.com.br/representante)
 
 
-crawl HS - hs.csv

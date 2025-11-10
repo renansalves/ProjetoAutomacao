@@ -13,8 +13,9 @@ class ademicon(scrapy.Spider):
             for cidade, unidades in cidades.items():
                 for u in unidades:
                     yield {
-                        'estado': estado,
-                        'cidade': cidade,
-                        'title': u.get('title'),
-                        'endereco': u.get('endereco'),
+                        'Nome': u.get('title'),
+                        'Endereco': u.get('endereco'),
+                        'Cidade': cidade,
+                        'Estado': estado,
+                        'Pagina':'https://ademicon.com.br/'
                     }
