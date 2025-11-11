@@ -11,12 +11,12 @@
 
 - Gerar um arquivo Excel/csv para cada site
 
-1. - [ ] [Ademicon](https://ademicon.com.br/)
+1. - [X] [Ademicon](https://ademicon.com.br/)
 2. - [ ] [Embracom](https://www.embracon.com.br/filiais) 
 3. - [ ] [HS](https://hsconsorcios.com.br/onde-encontrar/) 
 4. - [ ] [Rodobens](https://rodobens.com.br/encontre-um-parceiro)
 5. - [ ] [Disal](https://disalconsorcio.com.br/rede-autorizadahttps://disalconsorcio.com.br/rede-autorizada)
-6. - [ ] [Unifisa](https://www.unifisa.com.br/representantes/)
+6. - [X] [Unifisa](https://www.unifisa.com.br/representantes/)
 7. - [ ] [Servopa](https://www.consorcioservopa.com.br/onde-encontrar)
 8. - [ ] [Remaza](https://www.remaza.com.br/representante)
 9. - [ ] [Racon](https://www.racon.com.br/unidades)
