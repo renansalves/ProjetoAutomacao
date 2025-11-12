@@ -12,7 +12,7 @@
 - Gerar um arquivo Excel/csv para cada site
 
 1. - [X] [Ademicon](https://ademicon.com.br/)
-2. - [ ] [Embracom](https://www.embracon.com.br/filiais) 
+2. - [X] [Embracom](https://www.embracon.com.br/filiais) 
 3. - [ ] [HS](https://hsconsorcios.com.br/onde-encontrar/) 
 4. - [ ] [Rodobens](https://rodobens.com.br/encontre-um-parceiro)
 5. - [ ] [Disal](https://disalconsorcio.com.br/rede-autorizadahttps://disalconsorcio.com.br/rede-autorizada)
