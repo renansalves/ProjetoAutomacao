@@ -15,7 +15,7 @@
 2. - [X] [Embracom](https://www.embracon.com.br/filiais) 
 3. - [X] [HS](https://hsconsorcios.com.br/onde-encontrar/) 
 4. - [ ] [Rodobens](https://rodobens.com.br/encontre-um-parceiro)
-5. - [ ] [Disal](https://disalconsorcio.com.br/rede-autorizadahttps://disalconsorcio.com.br/rede-autorizada)
+5. - [X] [Disal](https://disalconsorcio.com.br/rede-autorizada)
 6. - [X] [Unifisa](https://www.unifisa.com.br/representantes/)
 7. - [ ] [Servopa](https://www.consorcioservopa.com.br/onde-encontrar)
 8. - [ ] [Remaza](https://www.remaza.com.br/representante)
