@@ -19,5 +19,5 @@
 6. - [X] [Unifisa](https://www.unifisa.com.br/representantes/)
 7. - [!] [Servopa](https://www.consorcioservopa.com.br/onde-encontrar)
 8. - [X] [Remaza](https://www.remaza.com.br/representante)
-9. - [ ] [Racon](https://www.racon.com.br/unidades)
+9. - [X] [Racon](https://www.racon.com.br/unidades)
 10. - [ ] [Random](https://www.consorciorandon.com.br/localize-um-distribuidor)
