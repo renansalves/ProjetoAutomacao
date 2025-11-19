@@ -1,0 +1,7 @@
+# https://www.remaza.com.br/representante
+
+#(echo "Nome,Endereco,Cidade,Estado,Pagina" && curl 'https://www.remaza.com.br/v1/api/Representante' -H 'accept: application/json, text/plain, */*' -H 'accept-language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7' \
+#  -b '_fbp=fb.2.1763131642768.105598052814706976; _ga=GA1.1.1940891175.1763131643; _clck=xahaeh%5E2%5Eg10%5E0%5E2144; cf_clearance=omV7R26Jeq0uVW0oFEbSNc9p.Ox.3igxmGqx2L7Cips-1763131644-1.2.1.1-TEkfHJR1rDrz0EQCxhUHXT9ZkytqIoEF2aWyQ75fz_hP8TbA1znlNGnqVLAxhpuytGqOy.4oEFMkCKJdxhhvngWp_ArhsS8km6bEbMmh3.HOx8qiiKka8q3ePJCiOOSMGYk7D01h9ij6SV0ECszHoKalZP.pfr1xxQVoklBzso3F9iBIb2l3hAPepIk.yUvCG3uUZ59nxIMsrvWer1Vwg0wiceTjpEDb1tYh7VvrjL0; _clsk=cmr7jc%5E1763131644650%5E1%5E1%5El.clarity.ms%2Fcollect; _ga_VELD07S6MG=GS2.1.s1763131643$o1$g1$t1763131662$j41$l0$h0' \
+#  -H 'dnt: 1' -H 'priority: u=1, i' -H 'referer: https://www.remaza.com.br/representante' -H 'sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' -H 'sec-ch-ua-mobile: ?0' -H 'sec-ch-ua-platform: "Linux"' -H 'sec-fetch-dest: empty' -H 'sec-fetch-mode: cors' -H 'sec-fetch-site: same-origin' -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36' \ 
+#| jq -r '.representante | select(type=="array")[] | [.nomeven, .endereco, .cidade, .estado, "https://www.remaza.com.br/representante"] | @csv') >remaza.csv
+
